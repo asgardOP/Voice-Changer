@@ -2,6 +2,8 @@
 
 **VoiceChanger** is a simple yet powerful Python application that lets you **modify your voice in real-time** using sliders to control pitch, volume, distortion, and compression.
 
+![App Preview](screenshot.png)
+
 Built with:
 -  **Python**
 -  **SoundDevice** for real-time audio I/O
