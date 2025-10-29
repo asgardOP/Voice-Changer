@@ -49,8 +49,9 @@ Finally, it plays the processed sound back through your **output device**.
 
 ## ⚙️ Installation
 
-1. **Clone this repository**
+1. **Run The Folllowing code**
    ```bash
+   (make sure to install the reqired libraries)
    python main.py
 
    
